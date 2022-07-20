@@ -31,3 +31,6 @@ I recommned visiting the [Formatting Codes (Minecraft Fandom Wiki)](https://mine
 | Light Purple | §d                                                |
 | Yellow       | §e                                                |
 | White        | §f                                                |
+
+## Download
+[Standalone](https://github.com/Lexz-08/Minecraft-SC-Generator/releases/download/mc-sc-gen/MC_SC_GEN.exe)
